@@ -1,7 +1,5 @@
 <?php 
 
-include_once "backend/conn.php";
-
 class CRUD {
     public $table = ""; 
     public $primaryKey = "";
